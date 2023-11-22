@@ -1,0 +1,14 @@
+C:\Users\dhiar\OneDrive\Bureau\kraya\projet 2\TEST\workshop\workshop\obj\Debug\net6.0\workshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhiar\OneDrive\Bureau\kraya\projet 2\TEST\workshop\workshop\obj\Debug\net6.0\workshop.AssemblyInfoInputs.cache
+C:\Users\dhiar\OneDrive\Bureau\kraya\projet 2\TEST\workshop\workshop\obj\Debug\net6.0\workshop.AssemblyInfo.cs
+C:\Users\dhiar\OneDrive\Bureau\kraya\projet 2\TEST\workshop\workshop\obj\Debug\net6.0\workshop.csproj.CoreCompileInputs.cache
+C:\Users\dhiar\OneDrive\Bureau\kraya\projet 2\TEST\workshop\workshop\bin\Debug\net6.0\workshop.exe
+C:\Users\dhiar\OneDrive\Bureau\kraya\projet 2\TEST\workshop\workshop\bin\Debug\net6.0\workshop.deps.json
+C:\Users\dhiar\OneDrive\Bureau\kraya\projet 2\TEST\workshop\workshop\bin\Debug\net6.0\workshop.runtimeconfig.json
+C:\Users\dhiar\OneDrive\Bureau\kraya\projet 2\TEST\workshop\workshop\bin\Debug\net6.0\workshop.dll
+C:\Users\dhiar\OneDrive\Bureau\kraya\projet 2\TEST\workshop\workshop\bin\Debug\net6.0\workshop.pdb
+C:\Users\dhiar\OneDrive\Bureau\kraya\projet 2\TEST\workshop\workshop\obj\Debug\net6.0\workshop.dll
+C:\Users\dhiar\OneDrive\Bureau\kraya\projet 2\TEST\workshop\workshop\obj\Debug\net6.0\refint\workshop.dll
+C:\Users\dhiar\OneDrive\Bureau\kraya\projet 2\TEST\workshop\workshop\obj\Debug\net6.0\workshop.pdb
+C:\Users\dhiar\OneDrive\Bureau\kraya\projet 2\TEST\workshop\workshop\obj\Debug\net6.0\workshop.genruntimeconfig.cache
+C:\Users\dhiar\OneDrive\Bureau\kraya\projet 2\TEST\workshop\workshop\obj\Debug\net6.0\ref\workshop.dll
